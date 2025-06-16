@@ -168,7 +168,7 @@ WHERE NumArt = @articleNumber;
 
 ---
 
-# 9. **Using Parameters Properly**
+# 9. **sing Parameters Properly**
 
 Parameters are inputs to your procedures — think of them like knobs you turn to change the behavior.
 
